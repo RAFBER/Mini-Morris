@@ -15,7 +15,7 @@ Understand the different features of the car so that you can keep it and your pa
 1. TOC
 {:toc}
 
-## 1. Seat belts
+## Seat belts
 
 Wearing a seat belts reduces your chance of being injured in an accident.
 
